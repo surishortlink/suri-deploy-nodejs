@@ -1,13 +1,13 @@
 {
-  "name": "@suri/deploy-nodejs",
+  "name": "@surishortlink/deploy-nodejs",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "description": "A template repository tailored for deploying Suri with Node.js",
-  "homepage": "https://github.com/staticsuri/suri-deploy-nodejs#readme",
-  "bugs": "https://github.com/staticsuri/suri-deploy-nodejs/issues",
+  "homepage": "https://github.com/surishortlink/suri-deploy-nodejs#readme",
+  "bugs": "https://github.com/surishortlink/suri-deploy-nodejs/issues",
   "license": "MIT",
-  "repository": "staticsuri/suri-deploy-nodejs",
+  "repository": "surishortlink/suri-deploy-nodejs",
   "scripts": {
     "build": "suri"
   },
