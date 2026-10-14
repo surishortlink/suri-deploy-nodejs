@@ -39,6 +39,9 @@ Suri, including additional deployment options.
 
 5. Deploy the generated `build` directory to its final destination.
 
+Pull requests are built by GitHub Actions, so a mistake in `links.json` is
+caught before it's merged.
+
 ### Updating Suri
 
 [Dependabot](https://docs.github.com/en/code-security/dependabot) opens a pull
